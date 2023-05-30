@@ -1,6 +1,6 @@
 const axios = require('axios');
 const fs = require('fs');
-const NUM_OF_RECIPES = 3;
+const NUM_OF_RECIPES = 2;
 const RECIPE_IDS = []
 // Base configuration of all Spoonacular HTTP requests
 const spoon = axios.create({
@@ -15,10 +15,19 @@ async function getInstructions(ids) {
     for(i = 0; i < NUM_OF_RECIPES; i++){
         var apiResponse = await spoon.get(`recipes/${ids[i]}/analyzedInstructions`)
         var obj = apiResponse.data;
+        var steps = obj[0].steps;
+        
+        var p = [];
+        steps.forEach(elem => {
+          p.push(elem.step)
+        });
+        
         recipesJson["recipe" + (i+1)] = {
-            steps: obj[0].steps
+            steps: p
+            
         }
         console.log('done' + i)
+        console.log(p)
     }
 
     return recipesJson;
