@@ -1,7 +1,8 @@
 const axios = require('axios');
 const fs = require('fs');
-const NUM_OF_RECIPES = 2;
-const RECIPE_IDS = []
+const NUM_OF_RECIPES = 50;
+var RECIPE_IDS = []
+var RECIPE_NAMES = []
 // Base configuration of all Spoonacular HTTP requests
 const spoon = axios.create({
   baseURL: "https://api.spoonacular.com/",
@@ -13,23 +14,35 @@ async function getInstructions(ids) {
   try {
     var recipesJson = JSON.parse('{}');
     for(i = 0; i < NUM_OF_RECIPES; i++){
+        //api call for instructions
         var apiResponse = await spoon.get(`recipes/${ids[i]}/analyzedInstructions`)
         var obj = apiResponse.data;
+    
+
+        //get first object = steps
         var steps = obj[0].steps;
         
-        var p = [];
+        var ingr_str = [];
+        var step_str = [];
         steps.forEach(elem => {
-          p.push(elem.step)
+          step_str.push(elem.step)
+          //if ingredients exists push to array
+          if(elem.hasOwnProperty("ingredients")){
+            var ingr = elem.ingredients;
+            ingr.forEach(elem2 => {
+              ingr_str.push(elem2.name)
+            });
+            }
         });
         
+        //output
         recipesJson["recipe" + (i+1)] = {
-            steps: p
+            name: RECIPE_NAMES[i],
+            steps: step_str,
+            ingredients: ingr_str
             
         }
-        console.log('done' + i)
-        console.log(p)
     }
-
     return recipesJson;
   }
   catch (error) {    
@@ -59,10 +72,11 @@ async function getRandomRecipes(){
     
     for(let i = 0; i < NUM_OF_RECIPES; i++){
       RECIPE_IDS.push(JSON.stringify(obj.recipes[i].id))
+      RECIPE_NAMES.push(obj.recipes[i].title)
     } 
-    idString = RECIPE_IDS.toString()
-    console.log(idString)
-    return idString
+    
+    console.log(RECIPE_IDS)
+    return RECIPE_IDS
     
   }
   catch (error) {    

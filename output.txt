@@ -1,16 +1,1489 @@
 {
-    "recipe1": {
-        "steps": [
-            "If you are using whole, fresh anchovies you must clean them first. Pull off the heads and pull out the insides. Then rinse with clean water.",
-            "Pour the olive oil into a small deep saucepan set over heat. Use a deep fry thermometer to monitor the heat.Meanwhile, add the eggs to a small bowl and beat until well mixed.",
-            "Add the flour, cayenne, salt and black pepper to a shallow bowl, use a fork to mix the ingredients together. Dip the fish one at a time into the beaten eggs and then roll it in flour.When the oil reaches 365 degrees F. fry the fish a few at a time, rolling them around in the oil to assure even cooking until they are golden brown (about 5-8 minutes).",
-            "Serve with crusty bread, extra-virgin olive oil for dipping the bread (optional) and tomatoes."
-        ]
-    },
-    "recipe2": {
-        "steps": [
-            "Slice bread into 1cm thick slices: you can toast them or use them as they are. I prefer a soft bread to exalt butter softness.",
-            "Spread butter with generosity over the bread.If you want to use salted anchovies, rinse them under running water to remove extra salt and divide them into fillets, removing all the bones. If you use anchovies in oil, just make two fillets out of them and lay them over buttered bread.And now, the final touch: a pickled baby caper in the centre, and - in less than 3 minutes - you have an unusual afternoon break or a fun anti-crisis and anti-panic appetizer for Christmas."
-        ]
-    }
+  "recipe1": {
+    "name": "Gluten Free Oatmeal Raisin Cookies",
+    "steps": [
+      "Preheat oven to 350 degrees.",
+      "In a small bowl, soak raisins in warm water and set aside.",
+      "In a large mixing bowl, beat the shortening and palm sugar until combined.",
+      "In a separate bowl, whisk together the egg, agave, and vanilla.",
+      "Add the egg mixture to the sugar/shortening mixture, and beat to thoroughly combine.",
+      "In another separate bowl, combine the almond flour, tapioca, xanthan gum, cinnamon, soda, and salt.",
+      "Add the dry ingredients to the wet and stir until well combined.",
+      "Drain the plump raisins and fold into the batter.",
+      "Using wet hands, roll the batter into large tablespoon-sized balls and place on a greased cookie sheet 2 inches apart. Slightly flatten with the palm of your hands.",
+      "Bake for 8-10 minutes or until light golden brown. Using a spatula, remove the cookies from the sheet immediately."
+    ],
+    "ingredients": [
+      "raisins",
+      "water",
+      "palm sugar",
+      "shortening",
+      "vanilla",
+      "agave",
+      "egg",
+      "shortening",
+      "sugar",
+      "egg",
+      "almond flour",
+      "xanthan gum",
+      "cinnamon",
+      "tapioca",
+      "salt",
+      "pop",
+      "raisins",
+      "cookies",
+      "roll",
+      "cookies"
+    ]
+  },
+  "recipe2": {
+    "name": "Magic Cookie Bars",
+    "steps": [
+      "Preheat oven to 325 degrees",
+      "In a large bowl, combine the graham cracker crumbs with the melted butter. Press firmly into an ungreased 12 x 18\" jelly roll pan",
+      "Sprinkle the walnuts, chocolate chips, and shredded coconut over the graham cracker crust",
+      "Pour the three cans of condensed milk over everything evenly, making sure to completely cover the coconut. Use a spatula to spread if needed",
+      "Bake for 30-35 minutes, or until lightly golden",
+      "Cool to room temperature, or overnight, before cutting and serving"
+    ],
+    "ingredients": [
+      "graham cracker crumbs",
+      "butter",
+      "jelly",
+      "roll",
+      "graham cracker pie crust",
+      "shredded coconut",
+      "chocolate chips",
+      "walnuts",
+      "sweetened condensed milk",
+      "coconut",
+      "spread"
+    ]
+  },
+  "recipe3": {
+    "name": "Steak With Blue Cheese Sherry Sauce",
+    "steps": [],
+    "ingredients": []
+  },
+  "recipe4": {
+    "name": "Spiked Watermelon lemonade",
+    "steps": [
+      "Place sugar and 1 cup of water in a small saucepan, add mint. Cook over medium heat stirring until the sugar dissolves. Once dissolved remove from heat, cover saucepan and let sit for at least an hour to infuse.",
+      "In a blender combine the lemon juice with cubed watermelon.",
+      "Add mint simple syrup 1/4 cup at a time until the mixture is at your desired sweetness, about a cup.",
+      "Pour the mixture into a large pitcher and add 1 cup of cold water, the gin and fill with the watermelon mixture. Stir to combine."
+    ],
+    "ingredients": [
+      "sugar",
+      "water",
+      "mint",
+      "lemon juice",
+      "watermelon",
+      "simple syrup",
+      "mint",
+      "watermelon",
+      "water",
+      "gin"
+    ]
+  },
+  "recipe5": {
+    "name": "Triple Citrus Cake",
+    "steps": [
+      "Whisk flour, baking powder and salt. Set aside.With an electric mixer, beat yogurt, eggs, sugar, vanilla, oil, and lemon zest until combined.Switch to a spatula and fold in flour mixture until incorporated.Coat a 9 x 5 loaf pan with floured baking spray (or use parchment paper coated with baking spray as well) and pour in batter.  Smooth evenly.",
+      "Bake in a preheated oven at 350 degrees for 40-50 minutes or until a cake tester comes out clean.Allow cake to cool at least an hour.When cake is cool, move to a serving plate or cake platter.",
+      "Mix powdered sugar with orange juice until smooth and drizzle the glaze over cake."
+    ],
+    "ingredients": [
+      "baking powder",
+      "baking spray",
+      "lemon zest",
+      "vanilla",
+      "yogurt",
+      "all purpose flour",
+      "sugar",
+      "egg",
+      "salt",
+      "cooking oil",
+      "powdered sugar",
+      "orange juice",
+      "glaze"
+    ]
+  },
+  "recipe6": {
+    "name": "Trinidadian Chicken Potato Curry",
+    "steps": [
+      "Wash and pat dry chicken thighs. In a sealable container, combine all marinade ingredients. Toss chicken in marinade, cover and refrigerate for at least 2 hours.",
+      "In a Dutch oven, heat vegetable oil over medium high heat.",
+      "Add onions and saut until tender.",
+      "Add garlic and continue to saut until fragrant.",
+      "Sprinkle onions and garlic with curry powder and stir to evenly coat.",
+      "Add 1 tablespoon of water and cook for one minute, stirring constantly.",
+      "Add chicken and marinade. Saut until lightly browned, about 5 minutes.",
+      "If you want a thick curry add potatoes now, otherwise set aside.",
+      "Sprinkle chicken with amchar masala, cumin and salt. Toss to coat.",
+      "Pour in one cup of water and bring to a boil.",
+      "Reduce heat, cover pot and simmer for 20 minutes. If you reserved the potatoes for a thinner curry, add them to the pot after twenty minutes.",
+      "Continue to simmer for an additional twenty minutes until chicken reaches an internal temperature of 165 F and potatoes are cooked through.",
+      "Serve warm with roti or rice."
+    ],
+    "ingredients": [
+      "chicken thighs",
+      "marinade",
+      "whole chicken",
+      "vegetable oil",
+      "onion",
+      "garlic",
+      "curry powder",
+      "garlic",
+      "onion",
+      "water",
+      "marinade",
+      "whole chicken",
+      "potato",
+      "amchar masala",
+      "whole chicken",
+      "cumin",
+      "salt",
+      "water",
+      "potato",
+      "potato",
+      "whole chicken",
+      "rice",
+      "roti"
+    ]
+  },
+  "recipe7": {
+    "name": "Apple Dumplings In Fanta Sauce",
+    "steps": [
+      "Preheat oven to 400 F (abouyt 200 C).",
+      "Peel and core the apples and cut into crescents  firstly cut each apple into 4 pieces and then cut each of those into 2 pieces.",
+      "Sprinkle with lemon juice.",
+      "Cut with a sharp knife the puff pastry into equal squares (each crust into 4), and afterwards into triangles - 8 triangles from each crust.",
+      "Put a crescent of apple into a puff pastry triangle.",
+      "Roll up to the top.",
+      "In a different pan melt butter, add sugar and essence and stir well.",
+      "Arrange dumplings in a baking pan, close enough to each other, and pour plenty of melted butter and sugar on each of them.",
+      "Pour upon with Fanta.",
+      "Sprinkle with grounded cinnamon (optional).",
+      "Bake into preheated to 400 F (about 200 C) oven for about 30 minutes, as after the first 15-20 minutes may cover with baking paper, so the dumplings would not burn."
+    ],
+    "ingredients": [
+      "refrigerated crescent rolls",
+      "apple",
+      "lemon juice",
+      "puff pastry sheets",
+      "crust",
+      "puff pastry sheets",
+      "apple",
+      "roll",
+      "butter",
+      "sugar",
+      "butter",
+      "sugar",
+      "cinnamon"
+    ]
+  },
+  "recipe8": {
+    "name": "How to Make OREO Turkeys for Thanksgiving",
+    "steps": [
+      "Take a package of OREO cookies and crush them up finely.",
+      "Take softened cream cheese and mix well with cookie crumbs.",
+      "Roll into one inch cookie balls, and then freeze for 10 minutes.",
+      "Dip cookie balls into melted chocolate and place on a prepared cookie sheet covered with wax paper.",
+      "Place into the refrigerator for 15 minutes to an hour before decorating.",
+      "Add 5 candy corn to the back of the ball as tail feathers.",
+      "Use icing as glue to attach the candy eyes.",
+      "Cut one candy corn into pieces, using the white tip as the nose, and the orange part (cut in half) as feet."
+    ],
+    "ingredients": [
+      "oreo cookies",
+      "cookie crumbs",
+      "cream cheese",
+      "cookies",
+      "roll",
+      "chocolate",
+      "cookies",
+      "dip",
+      "candy corn",
+      "candy",
+      "icing",
+      "candy corn",
+      "orange"
+    ]
+  },
+  "recipe9": {
+    "name": "Loquat Pie",
+    "steps": [
+      "Wash and quarter loquats, removing seeds.",
+      "Combine loquats and water and cook until tender, about 15 minutes. Sift dry ingredients together, then stir into loquats. Cook over medium heat until mixture thickens, remove from heat and cool. Prepare pastry for an 8 or 9 inch pie plate. When loquat filling is partially cooled, pour into pie dish containing bottom crust. Cover with top crust and bake at 450:F for 10 minutes, then 350:F for 30 minutes.",
+      "Serves 8.Country: Bermudacourse: baking"
+    ],
+    "ingredients": [
+      "loquat",
+      "seeds",
+      "loquat",
+      "crust",
+      "water"
+    ]
+  },
+  "recipe10": {
+    "name": "Salmon Caesar Salad",
+    "steps": [
+      "Heat up a skillet/frying pan and sir the Salmon in the coconut oil/olive oil (don't forget to add the salt and paprika to it) until very lightly browned on each side (i like my salmon slightly undercooked-its up to you if you want it more done). Top with freshly squeezed lemon juice and let it sit in the frying pan for about 1 minute. In a Large bowl, mix the romaine lettuce with the Caesar salad dressing and dump it out into a large plate, top off with Asiago/Parmesan cheese and you can also sprinkle the toasted almonds on now.",
+      "Place the Salmon (sliced) on top. You can sprinkle it with some more fresh lemon juice:) and black pepper!"
+    ],
+    "ingredients": [
+      "caesar salad dressing",
+      "parmesan",
+      "romaine",
+      "coconut oil",
+      "lemon juice",
+      "olive oil",
+      "almonds",
+      "paprika",
+      "asiago cheese",
+      "salmon",
+      "salt",
+      "black pepper",
+      "lemon juice",
+      "salmon"
+    ]
+  },
+  "recipe11": {
+    "name": "Skinny Chocolate Banana Bread",
+    "steps": [
+      "Heat oven to 35",
+      "In a medium bowl mash the ripe bananas.",
+      "Add the honey, vanilla, coconut oil, yogurt, flour, cacao powder, salt, baking soda, and egg.",
+      "Mix until all ingredients are mixed well, but try not to over mix as that can affect the outcome of your bread.",
+      "Pour the mixture into a bread pan.",
+      "Place the skinny chocolate banana bread in the oven and bake on 350 for 60-70 minutes.",
+      "Remove from oven and place on a cooling rack for 10 minutes before removing from the baking dish.When you try this bread for the first time you will notice its a little different texture since it doesnt use flour. Its more dense. And it is super moist.I totally love this banana bread, and I love the fact that its a healthier version than your normal banana bread.However, if you are looking for standard banana bread recipe, you can head over here to check out my favorite standardbanana bread recipe. You can also find more healthy recipes in the Simple Fit Forty section here on the blog.JOIN 500,000 SUBSCRIBERS!Join over 500,000 others who follow Pink",
+      "When on Social Media, the Pink",
+      "When blog, and email. Sign up to receive exclusive bonuses like this FREE Simple Fit Dinners Ebook.Don't wait! You won't want to miss a thing.Success! Now check your email to confirm your subscription and download your FREE ebook.There was an error submitting your subscription. Please try again.First Name",
+      "Email",
+      "Address",
+      "Subscribe",
+      "Powered by Convert",
+      "Kit"
+    ],
+    "ingredients": [
+      "banana",
+      "cacao powder",
+      "baking soda",
+      "coconut oil",
+      "vanilla",
+      "yogurt",
+      "all purpose flour",
+      "honey",
+      "salt",
+      "egg",
+      "bread",
+      "bread",
+      "banana bread",
+      "chocolate",
+      "banana bread",
+      "bread",
+      "all purpose flour"
+    ]
+  },
+  "recipe12": {
+    "name": "Almost Heaven Cake",
+    "steps": [
+      "Prepare the cake mix as directed on the package",
+      "Add in one drained can of mandarin oranges as you mix the cake",
+      "The oranges will be blended into small pieces",
+      "Bake in a 9x13 inch prepared oblong cake pan",
+      "After baking, while the cake is still warm, poke holes in the cake over the entire surface using a fork",
+      "Pour the undrained crushed pineapple over the hot cake",
+      "Spread the pineapple evenly over the surface of the cake",
+      "Allow the cake to cool",
+      "Mix cream cheese with the pudding mix and 1/2 cup warm milk",
+      "After mixing together well, add gradually the cold milk while continuing to mix until well blended (easiest with an electric mixer)",
+      "If you add the cold milk too quickly to the cream cheese, it will be lumpy",
+      "Place in the refrigerator for about 1 hour or more until it is more firm",
+      "Then remove and spread over top of the cake",
+      "Then spread the cool whip over the cake",
+      "Drain the second can of mandarin oranges",
+      "Arrange the pieces over top of the cool whip in rows or another type of pretty design",
+      "Cover and refrigerate for at least another 1-2 hours before serving.",
+      "Store covered in the refrigerator."
+    ],
+    "ingredients": [
+      "cake mix",
+      "mandarin oranges",
+      "orange",
+      "crushed pineapple",
+      "pineapple",
+      "spread",
+      "cream cheese",
+      "pudding mix",
+      "milk",
+      "milk",
+      "cream cheese",
+      "milk",
+      "spread",
+      "spread",
+      "mandarin oranges"
+    ]
+  },
+  "recipe13": {
+    "name": "Cranegranate Sauce",
+    "steps": [
+      "Throw all your ingredients in a pot.Bring it to a boil, then turn it down to medium and let it cook for about 5 min.",
+      "Remove it from the heat, pop it in the fridge, and let it chill down for at least 3-4 hours."
+    ],
+    "ingredients": [
+      "pop"
+    ]
+  },
+  "recipe14": {
+    "name": "Peach Blueberry Cobbler",
+    "steps": [
+      "Preheat oven to 375F with racks in the upper and lower thirds. Stir together peaches, blueberries, 1/3 cup granulated sugar, cornstarch, brown sugar, lemon zest, lemon juice, nutmeg, cinnamon and 1/8 teaspoon salt in a large bowl.",
+      "Transfer to a 2 quart baking dish; set aside.",
+      "Whisk flour, baking powder, 1/2 teaspoon salt, and remaining 1/3 cup granulated sugar in a medium bowl.",
+      "Cut butter into flour mixture using a pastry blender or two knives to form clumps that are no larger than small peas.",
+      "Add vanilla extract and cream to flour mixture. Stir until a soft, sticky dough forms. Here you can get crazy with your cobbles. You can dump spoonfuls of dough on top of the fruit, you can roll the dough out in an even layer and top your fruit or you can or you can cut your dough using a biscuit cutter and top your fruit. Once you have placed the cobbles on your fruit, brush dough with cream and sprinkle with sugar.",
+      "Place baking dish on a baking sheet and bake on top rack until topping is golden brown and juices are bubbling, 50 to 60 minutes. If your biscuits start browning too quickly, cover loosely with foil.",
+      "Let cool on a wire rack for 15 minutes, then scoop into bowls serving with whipped cream or vanilla ice cream."
+    ],
+    "ingredients": [
+      "granulated sugar",
+      "blueberries",
+      "brown sugar",
+      "lemon juice",
+      "corn starch",
+      "lemon zest",
+      "cinnamon",
+      "peach",
+      "nutmeg",
+      "salt",
+      "granulated sugar",
+      "baking powder",
+      "all purpose flour",
+      "salt",
+      "butter",
+      "all purpose flour",
+      "peas",
+      "vanilla extract",
+      "biscuits",
+      "cream",
+      "dough",
+      "all purpose flour",
+      "fruit",
+      "sugar",
+      "roll",
+      "biscuits",
+      "vanilla ice cream",
+      "whipped cream"
+    ]
+  },
+  "recipe15": {
+    "name": "Homemade pineapple ice cream",
+    "steps": [
+      "In a large pot mix the milk, sugar and powdered milk. Bring the mix to a low simmer over medium heat and stir to dissolve the sugar, then turn the heat down and just keep it warm.",
+      "Put the egg yolks in a medium bowl and whisk for 2 minutes until they are thickened.While constantly whisking, slowly add 1 cup of the hot milk mixture and whisk until it is blended. Then pour the egg mixture back into the pot of hot milk and increase heat to medium. Stir the mixture constantly with a wooden or plastic spoon, until the mixture is thickened (like gravy).Stir in whipping cream and vanilla. Cover and put into the refrigerator for at least 6 hours (or overnight) before making the ice cream in the ice cream maker.Blend fruit in a food processor or blender to a puree consistency.Stir the pureed fruit into the milk and egg mixture.",
+      "Mix thoroughly.",
+      "Pour the mixture into an ice cream machine and churn until frozen, 15-20 minutes, according to the manufacturers instructions.",
+      "Transfer to plastic container and place in the freezer for an hour before serving."
+    ],
+    "ingredients": [
+      "powdered milk",
+      "sugar",
+      "milk",
+      "whipping cream",
+      "egg yolk",
+      "ice cream",
+      "vanilla",
+      "fruit",
+      "gravy",
+      "milk",
+      "egg",
+      "ice cream"
+    ]
+  },
+  "recipe16": {
+    "name": "Coconut Cream Pie Vegan Milkshake",
+    "steps": [
+      "Combine coconut meat, lemon juice, coconut oil, coconut milk, banana, vanilla, agave nectar (optional) and graham cracker crumbs in a blender; pulse until smooth.",
+      "Top with soy or dairy based whip cream, sprinkle with additional graham crackers and garnish with toasted coconut flakes.",
+      "Serves 2-3"
+    ],
+    "ingredients": [
+      "graham cracker crumbs",
+      "agave",
+      "coconut meat",
+      "coconut milk",
+      "coconut oil",
+      "lemon juice",
+      "vanilla",
+      "banana",
+      "graham crackers",
+      "coconut flakes",
+      "cream"
+    ]
+  },
+  "recipe17": {
+    "name": "Japanese Souffle Cheesecake",
+    "steps": [
+      "Add 500 ml water into a big baking tray ( that the tin you use for the cheesecake can fit in) and place the tray in the oven then preheat the oven to 160c.Line the base and side of a 18-20 cm springform/cake tin with parchment paper. Then use a big piece of foil to wrap the tin around from the bottom upto top of the tin side.",
+      "Place the butter, creamcheese and milk in a bowl set over a saucepan of barely simmering water, being careful not to let the bowl touch the water, then wait until the butter has melted, remove the bowl from the heat and give it a really good stir until the mixture is smooth, set aside and leave to cool at the room temperature.",
+      "Add the orange juice and zest to the creamcheese mixture, stir to blend then add the yolks and mix them until incorperated. Sift the flour and salt into another mixing bowl,pour over the cream cheese and egg mixture in the center of thr flour. Quickly whisk or stir everything until just blended ( don't overmix or the cake will be tough)",
+      "In a seperate mixing bowl , beat the egg white with cream of tartar until foamy, then gradually add the sugar ,few tablespoons at a time, and continue to beat at high speed until reach the soft-medium peak ( more than soft but not hard peak). Gently fold the white into the creamcheese mixture until blended.",
+      "Pour the batter into the prepared tin.",
+      "Place the tin in the preheated baking tray and bake for 50-60 minutes or until  a toothpick inserted from center comes out clean. Turn the cake out on to a wire rack once taken from the oven ( the cake will shrink if left too long in the tin!). Leave to cool at room temperature, then let it set in the fridge for another hour or so before slicing and serve."
+    ],
+    "ingredients": [
+      "water",
+      "base",
+      "wrap",
+      "butter",
+      "water",
+      "milk",
+      "cream cheese",
+      "orange juice",
+      "all purpose flour",
+      "egg yolk",
+      "salt",
+      "egg",
+      "cream of tartar",
+      "egg whites",
+      "sugar"
+    ]
+  },
+  "recipe18": {
+    "name": "Brown Sugar and Balsamic Glazed Pork Loin",
+    "steps": [
+      "Combine sage, salt, pepper and garlic. Rub over roast.",
+      "Place in slow cooker with 1/2 cup water. Cook on low for 6-8 hours. About 1 hour before roast is done, combine ingredients for glaze in small sauce pan.",
+      "Heat and stir until mixture thickens.",
+      "Brush roast with glaze 2 or 3 times during the last hour of cooking.",
+      "Serve with remaining glaze on the side."
+    ],
+    "ingredients": [
+      "garlic",
+      "pepper",
+      "sage",
+      "salt",
+      "dry seasoning rub",
+      "glaze",
+      "sauce",
+      "water",
+      "glaze",
+      "glaze"
+    ]
+  },
+  "recipe19": {
+    "name": "Crab Stacks",
+    "steps": [
+      "COMBINE THE QUINOA, OJ AND STOCK IN A SAUCEPAN. COOK OVER MEDIUM HIGH HEAT UNTIL ALL LIQUID HAS BEEN ABSORBED. REMOVE FROM HEAT AND SET ASIDE.",
+      "CUT THE LIME INTO QUARTERS.",
+      "COMBINE THE MANGO AND FRESNO CHILE. SQUEEZE A 1/4 OF THE LIME OVER THE MIXTURE AND MIX TO COMBINE.",
+      "COMBINE THE TOMATO, CILANTRO, GREEN ONION AND GARLIC. SQUEEZE 1/4 OF THE LIME OVER THE MIXTURE AND STIR TO COMBINE.",
+      "USING A ROUND MOLD, SPOON SOME OF THE PREPARED QUINOA INTO THE BOTTOM. IF USING THE SALMON- SPOON IN A LAYER OF THE SALMON.- OTHERWISE USE CRAB. TOP WITH A LAYER OF THE TOMATO MIXTURE, THEN AVOCADO.",
+      "TOP WITH A THIN LAYER OF THE QUINOA, THEN CRAB, FOLLOWED BY AVOCADO, THE MANGO MIXTURE AND MORE CRAB AND FINALLY TOPPED WITH A BIT MORE MANGO MIXTURE.",
+      "PRESS DOWN AND THEN REMOVE THE MOLDS.",
+      "GARNISH WITH PICKLED GINGER AND RADISHES AND USE THE REMAINING 1/2 LIME TO SQUEEZE OVER THE STACKS. SERVE COLD."
+    ],
+    "ingredients": [
+      "quinoa",
+      "stock",
+      "orange juice",
+      "lime",
+      "chili pepper",
+      "mango",
+      "lime",
+      "green onions",
+      "cilantro",
+      "garlic",
+      "tomato",
+      "lime",
+      "avocado",
+      "quinoa",
+      "salmon",
+      "tomato",
+      "crab",
+      "avocado",
+      "quinoa",
+      "mango",
+      "crab",
+      "pickled ginger",
+      "radish",
+      "lime"
+    ]
+  },
+  "recipe20": {
+    "name": "Avocado Chocolate Bits Frozen Yogurt",
+    "steps": [
+      "Heat milk and sugar over medium heat in a medium saucepan until just comes to a boil, stirring occasionally.  Stir in the vanilla.",
+      "Have ready a large bowl filled with ice and set a small metal bowl over the ice with a strainer set over it.",
+      "Place egg yolks in a medium bowl, lightly beaten.  Ladle some of the milk into the egg yolk, whisk it to prevent curdling.",
+      "Pour this mixture back into the rest of the milk in the saucepan.  Cook over low-medium heat until mixture is thick and can cover the back of a wooden spoon, about 4 to 8 minutes.",
+      "Pour the mixture over the strainer into the small bowl; stir in the yogurt.",
+      "Whisk the mixture over the ice bath until it cools completely.",
+      "Scoop the avocado meat and puree in a blender or food processor along with the lemon juice and some of the cooled custard.",
+      "Pour this mixture back to the rest of the custard, blend them together until it is thick and creamy.",
+      "Freeze the custard in an ice cream maker according to the manufacturers instructions.  Halfway through the freezing process, fold in the chopped bittersweet chocolate.",
+      "Transfer the frozen yogurt into a freezer-safe container and freeze until solid, at least 4 hours."
+    ],
+    "ingredients": [
+      "vanilla",
+      "sugar",
+      "milk",
+      "ice",
+      "egg yolk",
+      "milk",
+      "milk",
+      "yogurt",
+      "ice",
+      "lemon juice",
+      "avocado",
+      "custard",
+      "meat",
+      "custard",
+      "bittersweet chocolate",
+      "ice cream",
+      "custard",
+      "frozen yogurt"
+    ]
+  },
+  "recipe21": {
+    "name": "Apple Walnut Brownies",
+    "steps": [
+      "Preheat oven to 160C/320F. Line a rectangle cake pan.",
+      "Combine butter and chopped baking chocolate over low heat until melted.",
+      "Remove from heat and set aside to cool.",
+      "Place eggs. brown sugar, and vanilla extract in a mixing bowl and beat till fluffy and add in the melted butter chocolate mixture, stir till well combined.",
+      "Add self rising flour, cinnamon, walnuts, and green apple, mix well and pour into prepared cake pan.",
+      "Bake in preheated oven for 40 to 45 minutes and leave cake to cool. Best to chill for at least one hour for easy spreading of the ganache cream.To make the chocolate ganache: bring the cream to just a boil over medium-high heat.",
+      "Add in the semi-sweet chocolate pieces and blend well till chocolate melts.",
+      "Whisk until creamy.",
+      "Let cool and spread onto cake."
+    ],
+    "ingredients": [
+      "unsweetened baking chocolate",
+      "butter",
+      "vanilla extract",
+      "brown sugar",
+      "chocolate",
+      "butter",
+      "egg",
+      "self rising flour",
+      "green apple",
+      "cinnamon",
+      "walnuts",
+      "chocolate",
+      "cream",
+      "semisweet chocolate",
+      "chocolate",
+      "spread"
+    ]
+  },
+  "recipe22": {
+    "name": "Arugula Walnut Pesto",
+    "steps": [
+      "With this recipe you play with the amount of ingredients based on your likes & the strength of the garlic, arugula, etc.",
+      "Best to use a mortar & pestle but if you dont have one the food processor works just fine.",
+      "In the mortal & pestle or the processor start off with your arugula and a drizzle of oil to get it working. Once pulverized add in 1 clove of garlic & continue to grind. Now add in your nuts, lemon juice and a bit of salt & pepper & give it one more grind. At this point abandon the mortal & pestle or the machine & dump the mixture into a bowl.",
+      "Add a small handful of cheese and while continuously mixing add in the olive oil until you achieve your desired consistency. For crostini I would leave as a paste, for a pasta sauce keep it a bit looser - this is all based on the amount of olive oil you use.",
+      "Now recheck your seasonings - more garlic? A little light on the acid?",
+      "Add a squeeze of lemon. Is it flat? A pinch of salt will wake it up.",
+      "Let sit for an hour or so to let the flavors incorporate. Store in the fridge. It will last a few days before the arugula will turn.",
+      "Serve tossed over fresh pasta or rubbed over toasty bread with a ribbon of parmesan, a delicious topping for pizza or a beautiful frittata with a dollop of arugula pesto! There are a million ways to use this - enjoy!"
+    ],
+    "ingredients": [
+      "arugula",
+      "garlic",
+      "salt and pepper",
+      "lemon juice",
+      "arugula",
+      "garlic",
+      "clove",
+      "nuts",
+      "cooking oil",
+      "pasta sauce",
+      "olive oil",
+      "crostini",
+      "cheese",
+      "seasoning",
+      "garlic",
+      "lemon",
+      "salt",
+      "arugula",
+      "fresh pasta",
+      "parmesan",
+      "arugula",
+      "bread",
+      "pesto"
+    ]
+  },
+  "recipe23": {
+    "name": "Greek Yogurt Chicken Salad",
+    "steps": [
+      "Start by cooking some chicken breasts. I like boiling them in chicken broth or stock, but feel free to boil in water, too. Boiling the chicken in broth, however, will give it significantly more flavor. Bring the chicken broth/stock to a boil and put in whole chicken breasts. Cook until no pink remains. Depending on the size of the chicken breasts, this could take anywhere from 15 - 20 minutes.While the chicken is boiling, put together your sauce.",
+      "Whisk together greek yogurt, dijon mustard, and garlic powder together until well mixed.",
+      "Add in salt and pepper, to taste.Next, stir in dried cranberries or raisins and cashews. If you're worried about the cashews getting too soft, you could add them right before serving!After the chicken is done boiling, I like to let it rest for about 5 minutes. This ensures that the juice stays in the chicken instead of spilling out when you cut it!Dice up the chicken and mix it into the sauce.",
+      "Serve."
+    ],
+    "ingredients": [
+      "chicken breast",
+      "chicken broth",
+      "whole chicken",
+      "broth",
+      "sauce",
+      "stock",
+      "water",
+      "dijon mustard",
+      "garlic powder",
+      "greek yogurt",
+      "dried cranberries",
+      "salt and pepper",
+      "cashews",
+      "whole chicken",
+      "raisins",
+      "juice",
+      "sauce"
+    ]
+  },
+  "recipe24": {
+    "name": "Jean's Seafood Gumbo",
+    "steps": [
+      "Fill a 14-16-quart pot with two quarts of water and bring to a boil.",
+      "Meanwhile, peel and devein the shrimp, keeping the heads and hulls. Set the shrimp aside in cold water. In the large \"gumbo pot\" boil heads and hulls for 30 minutes to an hour. This will give you Creole gumbo. Strain shrimp heads and hulls from stock and set aside. Discard heads and hull immediately. Otherwise, the next day your kitchen will smell like Bayou St. John.",
+      "Clean the fresh crabs  If the crabs are fresh, you must take time to clean them. Discard the hard back shell and some of the so-called \"dead man,\" or yellow insides. Clean and separate crabs and set aside. (Note: If necessary, you can use meat from king, Dungeness, snow or stone crabs for your gumbo).",
+      "Before you fire up the stove again, cut up your celery, parsley, peppers, onions and garlic, especially if you're alone and there is no one to help you stir the pots. It takes time peeling the onions and garlic",
+      "Put the celery and parsley in a separate container from the other chopped ingredients and refrigerate until needed to keep them fresh.",
+      "Place the gumbo pot with the shrimp stock on the stove.",
+      "Add cleaned crabs and bay leaves. Stir slowly. You don't want your shrimp stock messing up the floor.",
+      "Add celery, parsley, and tomato paste to the gumbo brewing on the stove. Bring to a boil. Turn down heat, cover, and let simmer.",
+      "Here comes the roux -- a thick and flavorful sauce that has become one of the most important staples of Louisiana cuisine.",
+      "Pour oil or shortening into a separate heavy skillet (please do not use a thin omelet pan) over a medium-low heat. Slowly stir in flour to make the roux. Keep your eyes on the skillet. If the phone rings, let the answering machine pick it up. Cook roux until it has a dark mahogany color. Do not stop stirring until roux appears nutty or grainy. If black specks appear, the roux is burned. Throw it out and start from scratch. A good roux could take 30 to 45 minutes cooking time.",
+      "Now you are ready to add the holy trinity of onions, garlic, and green peppers to the roux mixture. Stir ingredients in slowly because the flour is still sizzling. The moisture will begin to disappear. This is when Jean would add another quart or two of water to the gumbo pot.",
+      "Add roux to the gumbo pot. Bring to a boil, stirring constantly. Lower heat and cover. The kitchen should smell good right now.",
+      "Pour yourself another cold something-or-other. You're halfway there. Come back to look and stir in an hour or so.",
+      "Season to taste: add salt, pepper, thyme, Worcestershire sauce, Tabasco sauce and any Creole seasoning you like. Don't overdo it right now.",
+      "Let the roux work its magic absorbing all the wonderful ingredients. Gumbo is usually very spicy, but you can keep it mild. Remember, if you have decided to use andouille sausage it is also hot.",
+      "Fry sausages and okra with a little bit of the leftover grease.",
+      "Sprinkle a little leftover flour if the okra is fresh.",
+      "Add to gumbo pot.",
+      "Add chopped peeled tomatoes, stirring until well blended.",
+      "Add more water if necessary. The roux will keep it thick and tasty. Return to a boil and simmer for 10 minutes. Reduce heat and let simmer, uncovered, for 2 1/2 to 3 hours over low heat.",
+      "Skim any excess fat.",
+      "Add shrimp. Stir in slowly as you increase the heat one last time. It's time to stir in the fil powder. Cook another 20 to 30 minutes until the gumbo is thick. Taste and adjust seasonings one more time. Did I mention the rice? Seafood gumbo is served over Louisiana rice. Of course, you can substitute for your own favorite rice. Just plain old brown or white rice will do. Before serving, taste one more time and adjust seasoning. Turn off heat and remove seafood gumbo from the stove.",
+      "To cool down the pot before serving, place it in the sink with a few inches of ice-cold water. If needed, add additional salt and Tabasco sauce. If you can see through the gumbo to the bottom of the pot, work on your roux next time."
+    ],
+    "ingredients": [
+      "water",
+      "shrimp",
+      "gumbo",
+      "stock",
+      "water",
+      "gumbo",
+      "meat",
+      "parsley",
+      "peppers",
+      "celery",
+      "garlic",
+      "onion",
+      "parsley",
+      "celery",
+      "shrimp stock",
+      "gumbo",
+      "shrimp stock",
+      "bay leaves",
+      "tomato paste",
+      "parsley",
+      "celery",
+      "gumbo",
+      "sauce",
+      "shortening",
+      "all purpose flour",
+      "cooking oil",
+      "green pepper",
+      "garlic",
+      "onion",
+      "all purpose flour",
+      "gumbo",
+      "water",
+      "gumbo",
+      "worcestershire sauce",
+      "creole seasoning",
+      "tabasco sauce",
+      "pepper",
+      "thyme",
+      "salt",
+      "andouille sausage",
+      "gumbo",
+      "sausage",
+      "okra",
+      "all purpose flour",
+      "okra",
+      "gumbo",
+      "canned whole tomatoes",
+      "water",
+      "seasoning",
+      "white rice",
+      "seafood",
+      "shrimp",
+      "gumbo",
+      "rice",
+      "tabasco sauce",
+      "gumbo",
+      "water",
+      "salt",
+      "ice"
+    ]
+  },
+  "recipe25": {
+    "name": "Braid sweet citrus flavored licorice",
+    "steps": [
+      "Roll out the puff pastry with a sharp knife and etch designs of strips about 10 cm high and 1 cm wide.Gently twist each strip on itself and obtained adagiale spaced on a sheet of parchment paper.Cuocile in an oven preheated to 200C for 12 minutes or until golden brown and then let them cool on a wire rack.Meanwhile, washes, dries and gets the subtle citrus zest and keep aside.Lime juice, half orange and half lemon juice, boil until a couple of tablespoons.",
+      "Remove from heat and add the cream and brown sugar, mixing well.",
+      "Let the glaze cool until it thickens.",
+      "Brush braids with the icing and spolverale with citrus peel kept aside, please do so on a wire rack, let it dry as long as the icing does not harden."
+    ],
+    "ingredients": [
+      "lemon juice",
+      "puff pastry sheets",
+      "lime juice",
+      "orange",
+      "roll",
+      "brown sugar",
+      "cream",
+      "glaze",
+      "icing"
+    ]
+  },
+  "recipe26": {
+    "name": "Turkish Chicken Salad with Home-made Cacik Yogurt Sauce",
+    "steps": [
+      "First prepare the Cacik: For the Cacik: Chop the cucumber into tiny pieces, as small as you can, and place in a bowl. Cover the cucumber with salt and set aside for 30 minutes. The cucumbers will start to exude their juices which will flavour the yogurt nicely.",
+      "Put a griddle pan on medium  high heat, cover the peppers with olive oil and start to char.",
+      "Cut the tomato and cucumber into medium pieces. Slice the red onion as thin as you can. Chop the parsley fine.",
+      "Place all ingredients in a bowl and cover with a the juice of 1 lemon. Season with salt and pepper.",
+      "Let it sit in the fridge for 30 minutes  1 hour, stirring a couple times, so it starts to exude juice.",
+      "Tear the lettuce into mouth-siazed peices.",
+      "Cut the red cabbage into thin slices. Grate the carrot.",
+      "Mix together in a bowl.",
+      "Tear the chicken into large pieces and add to the salad.",
+      "Remove the tomato salsa from the fridge.",
+      "Drain the juice and keep for later. Now add the tomato, cucumber, parsley onion mix to the chicken salad, as well as the sliced gherkin.",
+      "Lay out the salad on a large plate or chopping board.",
+      "Serve with the charred peppers, cacik, salsa vinaigrette and some chilli sauce."
+    ],
+    "ingredients": [
+      "cucumber",
+      "yogurt",
+      "salt",
+      "olive oil",
+      "peppers",
+      "red onion",
+      "cucumber",
+      "parsley",
+      "tomato",
+      "salt and pepper",
+      "juice",
+      "lemon",
+      "juice",
+      "lettuce",
+      "red cabbage",
+      "carrot",
+      "whole chicken",
+      "tomato",
+      "salsa",
+      "cucumber",
+      "whole chicken",
+      "parsley",
+      "tomato",
+      "juice",
+      "onion",
+      "vinaigrette",
+      "peppers",
+      "chili pepper",
+      "salsa",
+      "sauce"
+    ]
+  },
+  "recipe27": {
+    "name": "Crab and Shrimp Burgers With Garlic Grits Fries",
+    "steps": [
+      "In a large bowl, carefully mix all of the ingredients except the breadcrumbs, seafood seasoning and butter. Form into 8 patties and set on a baking sheet. Chill for an hour.",
+      "Once chilled, cover all sides of the patties with bread crumbs and lay on a separate baking sheet.",
+      "Bake in an oven preheated to 375 degrees for 15-20 minutes, flipping once.",
+      "If desired, top with a bit of butter and set the burgers onto a vegetable grill basket.",
+      "Heat for 1-2 minutes on a preheated grill just for flavor and a little color.",
+      "Serve on warm buns."
+    ],
+    "ingredients": [
+      "seafood seasoning",
+      "breadcrumbs",
+      "butter",
+      "breadcrumbs",
+      "vegetable",
+      "butter",
+      "roll"
+    ]
+  },
+  "recipe28": {
+    "name": "Lasagne Roll Ups",
+    "steps": [
+      "In a skillet cook the garlic, onion, red pepper flakes, thyme, and salt and pepper to taste in the oil over moderately-low heat, stirring, until the onion is softened. Reserve 3 tablespoons of the onion mixture in a bowl. To the onions in the skillet, add the bell peppers and the broth, and simmer the mixture, covered, for 10 minutes, or until the peppers are very soft. In a blender puree the mixture until it is smooth, return it to the skillet, and swirl in the butter. Stir in the basil, lemon juice, and Cook the lasagne noodles according to package directions, rinse with cold water and drain.Preheat the oven to 375 degrees. In a bowl with the reserved cooked onions, combine 1/4 cup Parmesan cheese, Mozzarella, ricotta, freshly grated nutmeg to taste, spinach and salt and pepper.",
+      "Mix well.Spoon 1 cup of sauce into an ungreased 9- by 9- by 2-inch baking pan.",
+      "Spread 3 tablespoons of filling on each noodle, roll up as for a jelly roll, and place seam-side down in the pan. Repeat until all the noodle are used. Top with remaining sauce, cover with foil and bake for 25 minutes. Uncover, sprinkle with remaining Parmesan cheese and bake uncovered, until golden, about 5 more minutes.This recipe yields 6 servings."
+    ],
+    "ingredients": [
+      "red pepper flakes",
+      "lasagne noodles",
+      "parmesan",
+      "salt and pepper",
+      "bell pepper",
+      "lemon juice",
+      "mozzarella",
+      "peppers",
+      "ricotta cheese",
+      "spinach",
+      "butter",
+      "garlic",
+      "nutmeg",
+      "onion",
+      "basil",
+      "broth",
+      "thyme",
+      "water",
+      "cooking oil",
+      "sauce",
+      "parmesan",
+      "pasta",
+      "spread",
+      "jelly",
+      "sauce",
+      "roll"
+    ]
+  },
+  "recipe29": {
+    "name": "Corned Beef And Cabbage With Irish Mustard Sauce",
+    "steps": [
+      "Combine corned beef and water to cover in a large Dutch oven; bring to a boil then remove from heat.",
+      "Drain.",
+      "Add fresh water to cover.",
+      "Add onion, carrot, parsley, bay leaf, and pepper. Bring to a boil once again, then reduce to a low simmer. Skim off foam, if necessary. Cover and simmer 4 hours or until tender.",
+      "Remove onion and parsley.",
+      "Add potatoes to Dutch oven. Simmer 10 minutes.",
+      "Add cabbage wedges, and simmer 20 minutes or until vegetables are tender.",
+      "Remove and discard bay leaf.To make the Irish Mustard Sauce, combine cornstarch, sugar, dry mustard and salt in a medium saucepan; stir well.",
+      "Add water and cook over low heat, stirring constantly, until thickened.",
+      "Remove from heat. Stir in vinegar, butter and horseradish. Gradually stir about 1/4 of hot mixture into yolks; add to remaining hot mixture, stirring constantly. Cook over low heat, stirring constantly, until thickened.",
+      "Transfer corned beef and vegetables to a serving platter.",
+      "Serve with Irish Mustard Sauce."
+    ],
+    "ingredients": [
+      "corned beef",
+      "water",
+      "water",
+      "bay leaves",
+      "parsley",
+      "carrot",
+      "pepper",
+      "onion",
+      "parsley",
+      "onion",
+      "potato",
+      "vegetable",
+      "cabbage",
+      "mustard powder",
+      "corn starch",
+      "bay leaves",
+      "mustard",
+      "sauce",
+      "sugar",
+      "salt",
+      "water",
+      "horseradish",
+      "vinegar",
+      "butter",
+      "egg yolk",
+      "corned beef",
+      "vegetable",
+      "mustard",
+      "sauce"
+    ]
+  },
+  "recipe30": {
+    "name": "Frank’s® Redhot® Buffalo Chicken Dip",
+    "steps": [
+      "Stir cream cheese in 9 deep pie dish until smooth. Stir in remaining ingredients.",
+      "Bake at 350F. for 20 min. until hot and bubbling. Stir.",
+      "Serve with vegetables and crackers."
+    ],
+    "ingredients": [
+      "cream cheese",
+      "vegetable",
+      "crackers"
+    ]
+  },
+  "recipe31": {
+    "name": "Creamy Shrimp Bisque",
+    "steps": [
+      "In a medium saucepan, add the celery, onion and butter stirring occasionally until tender for about 10 minutes. When tender add the garlic and saut for another 3-4 minutes. Stir in the flour and cook for about 5 minutes to take out the flour taste then add the potatoes, half and half.",
+      "Let simmer over medium heat for another 5 minutes. Stir in the fish stock, parsley and all of the seasonings then let this cook for another 10 minutes and it gets thick and bubbly.",
+      "Add the shrimp meat and simmer for another 10 minutes.",
+      "Side Note: My husband and I decided that even though this bisque was amazing the way it was it could also benefit from some smoky bacon. So next time, I will cook up some bacon pieces then set them aside and cook the onion and celery in the bacon drippings. Once the bisque is ladled into bowls, sprinkle the top with the crispy bacon."
+    ],
+    "ingredients": [
+      "half and half",
+      "potato",
+      "butter",
+      "celery",
+      "garlic",
+      "all purpose flour",
+      "onion",
+      "fish stock",
+      "seasoning",
+      "parsley",
+      "shrimp",
+      "meat",
+      "bacon drippings",
+      "real bacon pieces",
+      "bisque",
+      "celery",
+      "bacon",
+      "onion"
+    ]
+  },
+  "recipe32": {
+    "name": "Peach Pie",
+    "steps": [
+      "Preheat the oven at 37",
+      "Place the pastry dough on a 9 inch round pie plate. Poke lightly the pastry and prebake for 8 minutes in the hot oven.",
+      "Remove and set aside.In a large bowl mix together the eggs, almond paste, heavy cream, brown sugar and vanilla extract.",
+      "Add the cut up peaches to the pastry shell, cover with the eggs mixture.",
+      "Bake at 350 for 45 minutes, or until the middle is solid firm."
+    ],
+    "ingredients": [
+      "pastry dough",
+      "vanilla extract",
+      "almond paste",
+      "brown sugar",
+      "heavy cream",
+      "egg",
+      "pastry shells",
+      "peach",
+      "egg"
+    ]
+  },
+  "recipe33": {
+    "name": "Moroccan Chicken Pitas",
+    "steps": [
+      "Combine all ingredients, from paprika down, in a small dish and stir thoroughly to combine.",
+      "Using a meat mallet, pound the chicken breasts pretty thin  about 1/2 inch thick.  Generously rub the spice mixture on all sides of chicken breasts, cover and let it sit in the refrigerator for about an hour.",
+      "Combine all tabbouleh ingredients and adjust salt and oil to your preference.  Cover and chill while the chicken is marinating  but first you should do like I did and dip a handful of pita chips in it.",
+      "When the chicken has marinated, prepare grill to medium heat.  Grill the chicken until done  at least 16",
+      "I like mine very done, even with some crispy edges.",
+      "Half the pita bread, and split open.  Fill the halves with chicken, tabbouleh and finally the yogurt sauce."
+    ],
+    "ingredients": [
+      "paprika",
+      "chicken breast",
+      "meat",
+      "dry seasoning rub",
+      "pita chips",
+      "whole chicken",
+      "salt",
+      "dip",
+      "cooking oil",
+      "whole chicken",
+      "pita",
+      "whole chicken",
+      "yogurt",
+      "sauce"
+    ]
+  },
+  "recipe34": {
+    "name": "Easy Chicken Wings",
+    "steps": [
+      "Clean and wash chicken wings and drumettes in running water and pat dry.",
+      "Heat oil in the pan over medium heat.",
+      "When the oil is hot add chicken wings and fry for 3-4 minutes or until golden brown.",
+      "Remove from the oil and keep aside.",
+      "In another pan, mix ketchup, BBQ sauce, honey, sesame oil, and Capsico sauce. Stir over the medium flame for few minutes or until sticky and thicken.",
+      "Add deep fried wings in the sauce and toss together until everything is coated with sauce.",
+      "Serve hot with your favorite dips."
+    ],
+    "ingredients": [
+      "chicken wings",
+      "chicken drumettes",
+      "water",
+      "cooking oil",
+      "chicken wings",
+      "cooking oil",
+      "cooking oil",
+      "sesame oil",
+      "barbecue sauce",
+      "ketchup",
+      "honey",
+      "sauce",
+      "sauce",
+      "chicken wings"
+    ]
+  },
+  "recipe35": {
+    "name": "Dark Chocolate Cinnamon Easter Eggnog",
+    "steps": [
+      "In a medium saucepan over medium heat, whisk together egg yolks, milk, sugar, dark chocolate, cocoa powder, and cinnamon. When mixture is well combined and just starts to boil and bubble, remove from heat.",
+      "Pour mixture in a bowl over an ice bath and whisk for several minutes until cool.",
+      "Whisk in cream, liqueur, and vanilla.",
+      "Serve immediately or store in refrigerator.",
+      "Top with whipped cream and cinnamon if desired.",
+      "Makes 4 (about 1-cup servings)",
+      "SNAPPY TIPS: Make sure you whisk the egg yolks and liquids well while over the heat so that the eggs dont curdle.",
+      "SNAPPY SUBSTITUTIONS: If you dont like dark chocolate you could use original unsweetened cocoa powder, and substitute your favorite chopped chocolate for the chopped dark chocolate. You can also substitute any liqueur for the chocolate liqueur."
+    ],
+    "ingredients": [
+      "dark chocolate",
+      "cocoa powder",
+      "egg yolk",
+      "cinnamon",
+      "sugar",
+      "milk",
+      "ice",
+      "liqueur",
+      "vanilla",
+      "cream",
+      "whipped cream",
+      "cinnamon",
+      "egg yolk",
+      "egg",
+      "unsweetened cocoa powder",
+      "chocolate liqueur",
+      "dark chocolate",
+      "chocolate",
+      "liqueur"
+    ]
+  },
+  "recipe36": {
+    "name": "Wasabi Ice Cream (Wasabi Aisu)",
+    "steps": [
+      "Prepare a bain-marie, which can be a stockpot filled with water until one-third full and set over low heat until water is hot but barely simmering.",
+      "Combine egg yolks, water and sugar in a metal mixing bowl, then set on top of bain-marie. Beat mixture constantly with a whisk for 7-9 minutes or until mixture is thick, foamy and hot to the touch. Regularly scrape bowl's sides and bottom so every bit of the mixture is evenly beaten.",
+      "Remove bowl from bain-marie and continue beating for 2 minutes more or until mixture has cooled almost to room temperature.",
+      "Beat in wasabi and vanilla, then cover with pastic wrap and refrigerate for 10 minutes or until slightly cold.",
+      "Combine whipping cream and salt in a clean bowl and whip until thick and floppy but not fully stiff. Fold cream into wasabi mixture, a third at a time, folding just until incorporated after each additon.",
+      "Scrape mixture into a metal cake tin or plastic container, cover and freeze for at least 4 hours. Stir with a whisk after 1 hour, and every 30 minutes after that, to break up large ice crystals.",
+      "If you're using an ice cream maker, skip steps (",
+      "& (6), add whipping cream and milk into the wasabi mixture and stir well to combine and let stand in the fridge for two hours or until the mixture is very cold.",
+      "Pour the chilled mixture into ice cream maker and process according to the manufacturer's instructions. Churn for about 30-40 minutes till soft ice cream is formed.",
+      "Spoon the soft ice cream into a container and freeze for 3-4 hours before serving."
+    ],
+    "ingredients": [
+      "water",
+      "egg yolk",
+      "sugar",
+      "water",
+      "vanilla",
+      "wasabi",
+      "wrap",
+      "whipping cream",
+      "wasabi",
+      "cream",
+      "salt",
+      "ice",
+      "ice cream",
+      "whipping cream",
+      "wasabi",
+      "milk",
+      "ice cream",
+      "ice cream"
+    ]
+  },
+  "recipe37": {
+    "name": "Gluten-Free Rhubarb, Lemon and Almond Cake",
+    "steps": [
+      "Pre-heat the oven to 180 C/355 F. Grease a 25 cm/9 inch cake tin and line the bottom with a round of baking paper. Wash the rhubarb stalks, cut into 1 inch lengths and while still slightly damp from washing, in a small bowl combine with the 2tsp of extra castor sugar to coat and set aside.",
+      "Beat the eggs and sugar using either a hand-held electric beater or a stand-up mixer for 5 minutes until very thick and pale in colour. Slowly beat in the soft butter, then beat for a further few minutes. A few small lumps of butter will remain, this is okay. Gently fold in the almond meal, rice flour, baking powder and lemon zest. Spoon the mixture into the cake tin. Dot the rhubarb pieces on top, gently pushing them down into the batter a little.",
+      "Bake for 35-40 minutes until a skewer pushed into the centre of the cake comes out clean and the rhubarb is tender.",
+      "Cool in the tin before serving dusted with icing sugar and softly whipped cream on the side. Enjoy!"
+    ],
+    "ingredients": [
+      "caster sugar",
+      "rhubarb",
+      "baking powder",
+      "almond flour",
+      "lemon zest",
+      "rice flour",
+      "rhubarb",
+      "butter",
+      "sugar",
+      "egg",
+      "rhubarb",
+      "whipped cream",
+      "powdered sugar"
+    ]
+  },
+  "recipe38": {
+    "name": "Pear Dauphine’ Cocktail",
+    "steps": [
+      "Pour ingredients in shaker and fill with ice. Shake vigorously and strain into a cocktailglass of your choosing.",
+      "Garnish with an edible flower or paper-thin slice of pear on the edge of the glass."
+    ],
+    "ingredients": [
+      "shake",
+      "ice",
+      "pear"
+    ]
+  },
+  "recipe39": {
+    "name": "Southwest Blt Crostini",
+    "steps": [
+      "Start out by chopping up your baguette into 3/4\" slices.",
+      "Brush the olive oil over the top of the pieces and sprinkle them with your cumin and chili powder.Next up, you'll mix together the mayo. salsa, and the chili pepper.",
+      "Spread your mixture over the top of your baguette bites.Now it's time to add your shredded cheese. Don't be shy, cheese is really good. Trust me, I'm a cheesehead.Now, take your cheesed up crostinis and throw them into the oven at 350 for about 5 minutes; just long enough to get the cheese good and melted.While they're in the oven, grab your bacon and fry it up.Pull out the cooked up pieces, let them cool and drain, and then cut them into thirds.Now, take your cooked up crostinis and place a piece of bacon, then the arugula and finally the chopped tomatoes.Finish them off by sprinkling a couple leaves of fresh cilantro over the"
+    ],
+    "ingredients": [
+      "baguette",
+      "chili pepper",
+      "chili powder",
+      "olive oil",
+      "cumin",
+      "salsa",
+      "mayonnaise",
+      "shredded cheese",
+      "fresh cilantro",
+      "baguette",
+      "tomato",
+      "arugula",
+      "cheese",
+      "spread",
+      "bacon"
+    ]
+  },
+  "recipe40": {
+    "name": "Vegan Strawberry Shortcake served with Vegan Whipped Cream",
+    "steps": [
+      "Preheat your oven to 400 degrees F.",
+      "Add the sliced strawberries to a glass bowl and refrigerate until ready to use.",
+      "Combine the flours, baking soda and salt in a medium-sized bowl and mix together well.",
+      "In a small bowl, add 1 teaspoon water and the sugar, and mix together a bit to help dissolve the sugar.",
+      "In a large bowl, combine the almond milk, vinegar, oil, sugar and almond extract.",
+      "Whisk together.",
+      "Make a well in the center of the dry ingredients and gradually add the wet ingredients.",
+      "Mix everything together until combined.",
+      "Line two baking sheets with parchment paper.",
+      "Drop the batter by generous tablespoons, a few inches apart on the sheets (I recommend 5 per baking sheet).",
+      "Bake for 10-12 minutes, or until the shortcakes are just slightly golden.",
+      "Allow the shortcakes to cool, then slice them in half with a serrated knife.",
+      "Add a generous dollop of whipped topping to the bottom half, then a spoonful of strawberries on top of that. Top with the remaining shortcake half.",
+      "Add a bit more whipped topping to the top of the shortcake, and spoon a few of the strawberries over it.",
+      "Serve on individual dessert plates."
+    ],
+    "ingredients": [
+      "strawberries",
+      "baking soda",
+      "salt",
+      "sugar",
+      "water",
+      "almond extract",
+      "almond milk",
+      "vinegar",
+      "sugar",
+      "cooking oil",
+      "whipped topping",
+      "strawberries",
+      "whipped topping",
+      "strawberries"
+    ]
+  },
+  "recipe41": {
+    "name": "Vegan Donuts",
+    "steps": [
+      "Preheat oven to 325 degrees.",
+      "Mix flour, sugar, and baking powder.",
+      "Mix arrowroot powder and water, then add rice milk, oil, and vanilla, mixing until well blended.",
+      "Pour batter into a greased donut pan.Put in oven and bake for 8-10 minutes or until done.Dip into a mixed sugar glaze of powdered sugar and water or roll in a bag filled with cinnamon sugar."
+    ],
+    "ingredients": [
+      "baking powder",
+      "all purpose flour",
+      "sugar",
+      "arrowroot",
+      "rice milk",
+      "vanilla",
+      "water",
+      "cooking oil",
+      "cinnamon sugar",
+      "powdered sugar",
+      "glaze",
+      "sugar",
+      "water",
+      "roll",
+      "dip"
+    ]
+  },
+  "recipe42": {
+    "name": "BBQ” Style Chicken Thighs",
+    "steps": [
+      "Combine all of the ingredients for the bbq sauce in a small bowl.",
+      "Clean and pat dry the chicken thighs.",
+      "Place in a baking dish and rub the chicken thighs all over with the sauce.",
+      "Place in oven and bake for 40-45 minutes."
+    ],
+    "ingredients": [
+      "barbecue sauce",
+      "chicken thighs",
+      "chicken thighs",
+      "sauce",
+      "dry seasoning rub"
+    ]
+  },
+  "recipe43": {
+    "name": "Mardi Gras Shrimp Étouffée",
+    "steps": [
+      "Heat up a heavy pot over low heat.",
+      "Add in the butter and cook for about 10-12 minutes until a light golden brown. Be sure to stir around a few times to prevent burning.",
+      "Whisk in the flour until smooth and cook again for about 8 minutes on low. It should look like a slightly loose peanut butter when its ready.",
+      "Add in the bell peppers, celery and onion. Stir and coat the veggies with the roux. Cook for another 10-15 minutes, until the veggies are softened.Stir in the garlic and thyme and cook for a minute, until the garlic is fragrant.",
+      "Add in the tomato paste, Worcestershire sauce, creole seasoning and broth. Simmer on low for 30-40 minutes until slightly thickened. Stir occasionally.Stir in the shrimp, shut the heat and put the lid on. Allow to cook for about 5-8 minutes or until cooked through. Stir in a Tbsp of butter right at the end.",
+      "Serve over rice and garnish with sliced scallion and fresh diced tomato."
+    ],
+    "ingredients": [
+      "butter",
+      "peanut butter",
+      "all purpose flour",
+      "bell pepper",
+      "celery",
+      "garlic",
+      "onion",
+      "thyme",
+      "worcestershire sauce",
+      "creole seasoning",
+      "tomato paste",
+      "butter",
+      "shrimp",
+      "broth",
+      "green onions",
+      "tomato",
+      "rice"
+    ]
+  },
+  "recipe44": {
+    "name": "Liz's Lomo Saltado",
+    "steps": [
+      "Prepare the frozen french fries according to directions. Set aside when complete and keep warm.",
+      "Heat a large wok or skillet over medium-high heat.",
+      "Saute the onions and bell peppers until translucent, about 10 minutes.",
+      "Add the garlic and jalapeno and cook for an additional minute.",
+      "Mix everything until combined.",
+      "Add the beef chunks, cumin, complete seasoning, soy sauce and red wine vinegar sauce.",
+      "Mix well and cook until beef is no longer pink about 5 to 7 minutes.",
+      "Add the tomato chunks and add the cover and cook for additional 5 minutes. When ready to serve, add the french fries and toss everything gently together.",
+      "Serve lomo saltado over a bed of white rice and garnish with freshly chopped cilantro leaves. Enjoy with aji sauce on the side."
+    ],
+    "ingredients": [
+      "french fries",
+      "bell pepper",
+      "onion",
+      "jalapeno pepper",
+      "garlic",
+      "sazon completa",
+      "red wine vinegar",
+      "soy sauce",
+      "cumin",
+      "sauce",
+      "beef",
+      "beef",
+      "french fries",
+      "tomato",
+      "fresh cilantro",
+      "white rice",
+      "sauce"
+    ]
+  },
+  "recipe45": {
+    "name": "Spicy Black-Eyed Pea Curry with Swiss Chard and Roasted Eggplant",
+    "steps": [
+      "Rinse the black-eyed peas and soak in several inches of water for 6 hours or overnight.",
+      "Drain and rinse, then transfer to a large saucepan and cover with fresh water. Bring to a boil, reduce heat to medium-low, cover, and simmer for 40 to 60 minutes. Take care not to overcook  the beans should be tender but not be falling apart.",
+      "Drain and set aside.To prepare the eggplant, cut of the stem and bottom edge and then cut in half lengthwise. Score the flesh into diagonal 1-inch lines, then turn and score again until you have a diagonal pattern. Take care not to cut through the skin.",
+      "Sprinkle with some salt and let sit for 40 minutes. Rinse and squeeze out any excess water.",
+      "Brush the eggplant with some oil and transfer to a roasting pan.",
+      "Bake in a preheated 400 oven until the flesh appears collapsed and is wrinkly.",
+      "Remove from heat and let cool for about 10 minutes, season with a bit of salt, and remove the flesh from the eggplant. If there is too much water, drain in a strainer. Set aside.",
+      "Heat the oil over medium heat in the same saucepan used to cook the black-eyed peas. When hot, toss in the shallots and chilies and saut for 2 to 3 minutes. Now add the spices and stir for another minute, until fragrant.",
+      "Add the tomato, cook for another few minutes, and then add the eggplant and black-eyed peas, and cook for another few minutes, stirring often.",
+      "Pour a few tablespoons of water into the pan and add handfuls of chard at a time until wilted.",
+      "Add more water as necessary.",
+      "Add the lemon juice and salt to taste near the end of the cooking time.",
+      "Remove from heat, cover, and let sit for a few minutes before serving."
+    ],
+    "ingredients": [
+      "water",
+      "peas",
+      "beans",
+      "water",
+      "eggplant",
+      "water",
+      "salt",
+      "eggplant",
+      "cooking oil",
+      "eggplant",
+      "water",
+      "salt",
+      "shallot",
+      "chili pepper",
+      "spices",
+      "peas",
+      "cooking oil",
+      "eggplant",
+      "tomato",
+      "peas",
+      "swiss chard",
+      "water",
+      "water",
+      "lemon juice",
+      "salt"
+    ]
+  },
+  "recipe46": {
+    "name": "Red Quinoa and Roasted Cauliflower Salad",
+    "steps": [
+      "Cook the quinoa according to package directions.",
+      "Preheat the oven to 400 F",
+      "Cut head of cauliflower into florets.  Toss with olive oil, salt and pepper and place on a baking sheet.  Roast cauliflower for 20 minutes or until tender.",
+      "Meanwhile, crumble the cheese and chop the rest of the ingredients.",
+      "Mix them all together, sprinkle with some extra virgin olive oil and juice from 1/2 a lemon season to taste.",
+      "Serve warm or cold."
+    ],
+    "ingredients": [
+      "quinoa",
+      "salt and pepper",
+      "cauliflower",
+      "olive oil",
+      "cheese",
+      "extra virgin olive oil",
+      "juice",
+      "lemon"
+    ]
+  },
+  "recipe47": {
+    "name": "Carrot and Coriander Soup",
+    "steps": [
+      "In a deep pot, heat oil or butter and add the chopped onions until soft.Now add the carrots and saute for a few minutes.",
+      "Add the water, salt and pepper .Cover and cook until the carrots are done.Now add the orange juice and the coriander powder.",
+      "Let it cook for 2 more minutes.Puree the soup in a blender and garnish with fresh coriander.",
+      "Serve hot!"
+    ],
+    "ingredients": [
+      "carrot",
+      "butter",
+      "onion",
+      "cooking oil",
+      "ground coriander",
+      "salt and pepper",
+      "orange juice",
+      "carrot",
+      "water",
+      "fresh cilantro",
+      "soup"
+    ]
+  },
+  "recipe48": {
+    "name": "Sweet Corn Pudding",
+    "steps": [
+      "Preheat the oven to 42",
+      "Melt the butter in a heavy-bottomed pot over medium heat.",
+      "Add the onions and garlic and cook for 3 minutes.",
+      "Add the corn kernels and cook, stirring, for an additional 3 minutes.",
+      "Add the flour and stir for 1 minute, then add the cream. Once the cream is incorporated, continue to stir until the mixture comes to a boil.",
+      "Add the cooked grits, remove from the heat, and stir in jalapeo peppers. Taste and season well with salt and pepper.",
+      "With a hand-held immersion blender in the pot (or transfer the mixture to a food processor), pure the corn mixture while slowly adding the beaten eggs, until the eggs are thoroughly mixed in.",
+      "Pour the mixture into an ovenproof dish and sprinkle with the cheese.",
+      "Bake for 2530 minutes, until the center puffs and the corn pudding turns golden brown."
+    ],
+    "ingredients": [
+      "butter",
+      "garlic",
+      "onion",
+      "corn kernels",
+      "cream",
+      "all purpose flour",
+      "salt and pepper",
+      "cooked grits",
+      "peppers",
+      "corn",
+      "egg",
+      "cheese",
+      "corn"
+    ]
+  },
+  "recipe49": {
+    "name": "Apple, Cherry, Pear and Almond Breakfast Muffins",
+    "steps": [
+      "Preheat oven to 350 degrees",
+      "Line 12 cup muffin tin with liners and spray with baking spray.  Line a tray with almond slices and sit in oven for 4-5 minutes until almonds are just starting to toast, but not brown.",
+      "Remove pan and let cool.",
+      "Place flour, almond meal, baking powder, baking soda, cinnamon, nutmeg, and salt in a bowl and mix well to combine.  Set aside",
+      "In a mixer beat 1/2 cup of the butter and sugar until creamed.",
+      "Add one egg at a time until mixed.  Scrape down sides of mixer and add sour cream, zest and vanilla blend.",
+      "Add flour ingredients and mix until just blended (do not over-mix)",
+      "Remove bowl from mixer and by hand add apple and cherries, mixing.",
+      "Spoon mixture into each cup filling about 2/3 of the way.",
+      "In a small bowl combine, pear, brown sugar, 2 tablespoons of butter and almonds and combine.",
+      "Place on top of each muffin.",
+      "Bake for 25-30 minutes or until the center of a muffin comes out clean."
+    ],
+    "ingredients": [
+      "sliced almonds",
+      "baking spray",
+      "almonds",
+      "sandwich bread",
+      "baking powder",
+      "almond flour",
+      "baking soda",
+      "cinnamon",
+      "nutmeg",
+      "all purpose flour",
+      "salt",
+      "butter",
+      "sugar",
+      "sour cream",
+      "vanilla",
+      "egg",
+      "all purpose flour",
+      "cherries",
+      "apple",
+      "brown sugar",
+      "almonds",
+      "butter",
+      "pear"
+    ]
+  },
+  "recipe50": {
+    "name": "Skillet Chili Mac",
+    "steps": [
+      "Heat the oil in a large (12 inch) nonstick skillet over medium-high heat.",
+      "Add the ground beef, onion, chili powder, cumin, cayenne and 1/2 t. salt. Cook, breaking up meat into small pieces, until it looses all the pink color, about 5 minutes.",
+      "Add garlic and cook until fragrant, about 30 seconds or so.",
+      "Add brown sugar, tomato sauce, water and macaroni. Bring to a boil. Cover and cook, stirring often and adjusting the heat so that it maintains a lively simmer (somewhere between medium/medium-high heat), until the macaroni is tender, about 10 minutes or so. Season with salt & pepper if needed.",
+      "Off heat, stir in half the cheese.",
+      "Sprinkle the remaining cheese on top."
+    ],
+    "ingredients": [
+      "cooking oil",
+      "chili powder",
+      "ground beef",
+      "ground cayenne pepper",
+      "cumin",
+      "onion",
+      "meat",
+      "salt",
+      "garlic",
+      "salt and pepper",
+      "tomato sauce",
+      "brown sugar",
+      "macaroni",
+      "water",
+      "cheese",
+      "cheese"
+    ]
+  }
 }
